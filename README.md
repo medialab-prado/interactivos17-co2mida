@@ -10,13 +10,11 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 (Nota: los textos explicativos han de ser claros y suficientes para que otra persona pudiera retomar este proyecto)
 # Promotores y colaboradores: 
 ### Equipos: 
-+ Pepa Pig (pepa@pig.com)
-+ Nikola Tesla (www.atopedealterna.com)
-+ Austin Powers
++ María Garteizgogeascoa
++ Inés de la Cueva
++ Ivan Ellson
 ### Colaboradores
-+ Michael Knight 
-+ Steven Seagal (wanna@challenge.me)
-+ Los Chunguitos
++ Juanki
 # Instrucciones
 ### Instrucciones de montaje y desmontaje
 + Qué material se necesita
