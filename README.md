@@ -25,10 +25,13 @@ Interactivos?'17 general repository for calls, project lists and other resources
 # Descripción del proyecto
 [![ProjectImage](http://medialab-prado.es/mmedia/19/19846/500_0.jpg)](http://projectWeb.com/)
 ### Idea
-Explicar aquí el porqué del proyecto, el concepto. 
+La idea de nuestro proyecto es visibilizar la complejidad y la falta de información que existe en relación al impacto medioambiental de los alimentos que consumimos y concienciar a la población sobre este problema para que se convierta en consumidora activa. Además proporciona herramientas de ayuda a los consumidores y consumidoras que quieran transitar hacia opciones más sostenibles.
 ### Implementación
 Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc. 
 (Nota: los textos explicativos han de ser claros y suficientes para que otra persona pudiera retomar este proyecto)
++ El juego: se ha creado tomando como modelo un juego ya existente llamado "between cities" y adaptándolo a nuestro objetivo haciendo las modificaciones necesarias. Las cartas son cartulinas impresas y plastificadas de tamaño 9x6,9 cm. Hay 4 tableros con el esquema de las cadenas de producción posibles, tamaño A3 cada uno. 
++ El vídeo: se ha creado usando la técnica de Stop Motion usando carteles y fotografías en papel. Las fotos se realizaron con una cámara fotográfica Canon, fijada mediante unas tablas de madera y en una "caja de luz" improvisada a partir de una caja de madera, 2 fluorescentes y un fondo blanco. El vídeo fue editado posteriormente usando Adobe Premiere y añadiendo la voz de una locutora y efectos sonoros.
++ La página web: se ha construido mediante la plataforma de wordpress para crear páginas web (eligiendo la opción gratis). Ahí se ha volcado la información sobre el vídeo, el juego, una breve presentación, los contactos de los creadores y un apartado en el que poner proyectos futuros. 
 
 # Equipo
 ### Promotores
@@ -57,17 +60,15 @@ Explicar aquí cómo se ha hecho: materiales, procesos, conexiones, etc.
 ### Link al vídeo
 ![](https://youtu.be/xqHZlv982B0)
 ### Link a la web
++ [https://co2mida.wordpress.com/]
 ### Link a fotos del proyecto 
-+ [Link a las fotos](http://www.flickrPorEjemplo.com)
-+ [Link a las videos](http://www.lasalsaeslomas.com)
-+ [Link a los planos](http://www.atopedecarto.com)
-+ [Link al blog](http://www.mibloglopeta.com)
++ [https://www.flickr.com/photos/155491739@N03/albums]
 ### Bibliografía, otros repositorios y links
 + http://openframeworks.cc/
 + https://libcinder.org/
 
 
-# Diario del proceso (ejemplo)
+# Diario del proceso
 ### Semana 
 + Resumen general: la idea original (bajo el nombre de foodprint) desaparece y tenemos qué volver a pensar qué hacer y cómo hacerlo.
 
