@@ -56,8 +56,7 @@ Interactivos?'17 general repository for calls, project lists and other resources
 
 # Recursos 
 ### Link al vídeo
-[![https://co2mida.files.wordpress.com/2017/05/cropped-comida1.png](https://img.youtube.com/vi/https://youtu.be/xqHZlv982B0/0.jpg)]
-(https://www.youtube.com/watch?v=https://youtu.be/xqHZlv982B0)
++ [https://youtu.be/xqHZlv982B0]
 ### Link a la web
 + [https://co2mida.wordpress.com/]
 ### Link a fotos del proyecto 
