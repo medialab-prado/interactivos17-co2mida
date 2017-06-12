@@ -43,9 +43,9 @@ Interactivos?'17 general repository for calls, project lists and other resources
 # Instrucciones
 ### Instrucciones de montaje y desmontaje
 
-+ La exposición está formada por: dos pantallas, unos auriculares, un ratón, una mesa de juego (con un mastil que invita a jugar) y cuatro sillas. La pantalla de la derecha, muestra, en repetición, el vídeo realizado (si el vídeo dejase de aparecer, está guardado en el escritorio bajo el nombre "CO2MIDAPROJET.mp4) en una carpeta ("co2mida". En esta carpeta también hay un link a la página web) y en la de la izquierda aparece la web (co2mida.wordpress.com. Esta pantalla necesita conexión a internet). Además hay un mapa realizado en cartón que tiene que estar entre las pantallas y acompañado de un folleto. Además del expositor, hay una mesa y cuatro sillas para que se pueda jugar al juego de mesa.
++ La exposición está formada por: dos pantallas, unos auriculares, un ratón, una mesa de juego (con un mastil que invita a jugar), una caja con el juego y cuatro sillas. La pantalla de la derecha, muestra, en repetición, el vídeo realizado (si el vídeo dejase de aparecer, está guardado en el escritorio bajo el nombre "CO2MIDAPROJET.mp4) en una carpeta ("co2mida". En esta carpeta también hay un link a la página web) y en la de la izquierda aparece la web (co2mida.wordpress.com. Esta pantalla necesita conexión a internet). Además hay un mapa realizado en cartón que tiene que estar entre las pantallas y acompañado de un folleto. Además del expositor, hay una mesa y cuatro sillas para que se pueda jugar al juego de mesa. En la mesa está la caja con el juego dentro. 
 
-+ Elementos del juego de mesa: cuatro tableros con el esquema de cadena de producción A3. Instrucciones y cartas guía.  
++ Elementos del juego de mesa: una caja para guardarlo + cuatro tableros con el esquema de cadena de producción A3 que se doblan por la mitad +cartas del juego + Instrucciones.  
 
 
 ### Instrucciones de funcionamiento
